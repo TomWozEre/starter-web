@@ -17,3 +17,5 @@ Deployment deployment.... what can i say about deployment.
 It gives you grey hairs
 
 ## How To Contribute
+
+### Copyright
