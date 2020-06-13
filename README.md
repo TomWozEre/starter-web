@@ -18,4 +18,6 @@ It gives you grey hairs
 
 ## How To Contribute
 
+Please fork this repository and issue pull requests to review
+
 ### Copyright
