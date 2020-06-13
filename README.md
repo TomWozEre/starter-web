@@ -8,6 +8,8 @@ This is an example to show the use of the various git commands in an example web
 
 ## Purpose
 
+Provide hands on examples as a training tool for git
+
 ## Deployment
 
 ## How To Contribute
