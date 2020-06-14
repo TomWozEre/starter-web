@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This is a simple project for showing how to use git and github
-Adding oneliner for rebase example. Then more changes from myfeature branch
+Updatimg emergency fix after stashing
 
 ## Introduction
 
