@@ -22,3 +22,5 @@ It gives you grey hairs
 Please fork this repository and issue pull requests to review
 
 ### Copyright
+
+All Eights Reerved
